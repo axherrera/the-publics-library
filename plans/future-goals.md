@@ -1,0 +1,5 @@
+- Look to expand to subscriptions and ebooks
+- have dedicated minimalist website
+- create database to hold all of our data
+- create foundation to provide free books and to get books that the public wants
+- 

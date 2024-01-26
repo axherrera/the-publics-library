@@ -1,0 +1,13 @@
+- ~~change book stats format~~
+	- "1 reader" -> "1 has read"
+
+- write a mission statement
+- Add descriptions to all books
+- Create and populate a database with all books, descriptions, availability, etc
+- create dynamic qr code that leads to instagram page
+- ~~create obsidian TPL dashboard with links to all important information~~
+- create info post
+- launch by Sunday
+- write a mission statement
+- create folder with all the book photos, link all photos with corresponding book in the regist table
+
