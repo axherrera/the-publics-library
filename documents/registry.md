@@ -12,7 +12,7 @@
 | Meditations | 1 has read - available | 🟢<br> |  |
 | No Longer Human | 0 have read - available | 🟢<br> |  |
 | The Blind Assassin | 0 have read - available | 🟢<br> |  |
-| Crime and Punishment | 1 has read - unavailable |  |  |
+| Crime and Punishment | 1 has read - unavailable | 🔴 |  |
 | A Farewell to Arms | 1 has read - available | 🟢<br> |  |
 | The Alchemist | 1 has read - available | 🟢<br> |  |
 | What Moves the Dead | 0 have read - available | 🟢<br> |  |
@@ -48,17 +48,17 @@
 | Europe in the Modern World | 1> have read - available | 🟢<br> |  |
 |  |  |  |  |
 # genres
-| genre | # of books | |
-| -------- | -------- | -------- |
-| philosophy |  |
-| history |  |
-| music |  |
-| love |  |
-| tech |  |
-| self-education |  |
-| culture |  |
-| contemporary thoughts |  |
-| fiction |  |
-| non-fiction |  |
+| genre | # of books |  |
+| ---- | ---- | ---- |
+| philosophy |  |  |
+| history |  |  |
+| music |  |  |
+| love |  |  |
+| tech |  |  |
+| self-education |  |  |
+| culture |  |  |
+| contemporary thoughts |  |  |
+| fiction |  |  |
+| non-fiction |  |  |
 
 
